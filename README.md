@@ -46,7 +46,7 @@ To get started with the Event Center PDX website, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jenplanque/event_site_portland.git
+   git clone https://github.com/jenkauppila/event_site_portland.git
 
    cd event_site_portland
    ```
@@ -96,4 +96,4 @@ To use the Event Center PDX website, follow these steps:
 
 This project was created by:
 
-- [Jen Planque](https://github.com/jenplanque)
+- [Jen Kauppila](https://github.com/jenkauppila)
